@@ -1,0 +1,52 @@
+/*general attributes for the nave menu come first */
+.navMenu /*These are attributes for the entire navMenu...*/
+{
+	/*Sets the background color(in this case it's hex)*/
+	background-color:#666939;
+	/*Sets the height*/
+	height: 100px;
+}
+.navMenu ul /*These are the attributes for the list(ToC) in general.*/ 
+{
+	padding-top:25px;
+	text-decoration: none;
+	position: fixed;
+	text-align: center;
+}
+.navMenu li /* These are the attributes for each specific list item(link) in the nav menu */
+{
+	display:inline;
+	padding-right: 5px solid green;
+	padding-left: 5px solid green;
+	padding-top:5px solid green;
+	padding-bottom:5px solid green;
+	list-style-type:none;
+	text-decoration:none;
+	background-color: green;
+	border-radius: 15px 15px 15px 15px;
+	font-size:1em;
+	height:15px;
+}
+/*Now let's move onto mouseHover Actions*/
+.navMenu li :hover /* This is what happens to a link when it's hovered upon*/
+{
+	padding-right: 5px solid black;
+	padding-left: 5px solid black;
+	padding-top:5px solid black;
+	padding-bottom:5px solid black;
+	background:black;
+}
+/*This will be done soon*/
+/*We will make the nav menu bigger at the top and smaller as the user scrolls; the content is more important near the bottom and the links are more important near the top*/
+.navMenu-after
+{
+	
+}
+.navMenu-after ul
+{
+	
+}
+.navMenu-after li
+{
+	
+}

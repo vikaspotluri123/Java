@@ -1,0 +1,38 @@
+@stackof 3
+
+b.push(a.pop());
+c.push(a.pop());
+c.push(b.pop());
+b.push(a.pop());
+a.push(c.pop());
+b.push(c.pop());
+b.push(a.pop());
+
+Console
+BEFORE...
+A:[(3), (2), (1)]
+B:[]
+C:[]
+
+AFTER...
+A:[]
+B:[(3), (2), (1)]
+C:[]
+
+
+
+@stackof 4
+
+
+ function hanoi(no_of_disks, start_post, goal_post) {
+if (no_of_disks > 0) {
+var free_post = all_posts - start_post - goal_post;
+hanoi (no_of_disks - 1, start_post, free_post);
+show_messages = true;
+toggle(start_post);
+move(goal_post);
+show_messages = false;
+hanoi (no_of_disks - 1 , free_post, goal_post);
+game_over(true);
+   }
+}

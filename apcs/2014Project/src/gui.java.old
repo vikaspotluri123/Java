@@ -1,0 +1,50 @@
+import java.awt.*;
+import javax.swing.*;
+public class gui extends JFrame 
+{
+	public gui()
+	{
+		super("Home | Bank of the Internet");
+		setLookAndFeel();
+		setSize(500,500);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		FlowLayout main = new FlowLayout();
+		BorderLayout layout = new BorderLayout();
+		JPanel row1 = new JPanel();
+		JPanel row2 = new JPanel();
+		JPanel row3 = new JPanel();
+			JLabel uname = new JLabel("Username");
+			JTextField username = new JTextField(15);
+			JLabel break1 = new JLabel();
+			break1.setText("<HTML><Body><br /></body></html>");
+		row1.add(uname);
+		row1.add(username);
+		row1.add(break1);
+		row2.setLayout(main);
+			JLabel pwd = new JLabel("Password");
+			JTextField password = new JTextField(15);
+		row2.add(pwd);
+		row2.add(password);
+			JButton login = new JButton("Login");
+		row3.add(login);
+		add(row1);
+		add(row2);
+		add(row3);
+	}
+	private void setLookAndFeel() 
+	{
+		try
+		{
+			UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
+		}
+		catch (Exception exc) 
+		{
+			// ignore error
+		}
+	}
+	public static void main(String[] arguments) 
+	{
+		//gui frame = new gui();
+	}	
+}

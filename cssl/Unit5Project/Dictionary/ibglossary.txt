@@ -1,0 +1,286 @@
+abstract data structure	A way of organizing data and its related procedures and functions.
+accessor methods	Methods that do not alter the state or attributes of an object; their purpose is to return information.
+accumulator	A storage register in the ALU that holds data temporarily while the data is processed and before it is transferred to memory.
+A-D converter	Analog-digital converter. A device for converting analog signals into digital ones for subsequent computer processing; sometimes called a "digitizer". A digital to analog (D to A) converter operates in the reverse direction.
+ADSL (Asymmetrical Digital Subscriber Line)	Technology that increases the data rate over existing telephone lines accommodating voice and digital data transfer. A special modem is needed for access.
+address bus	Pathway from memory to processing unit that carries the address in memory to and from which data is transferred. See the definitions for "bus" and "data bus".
+algorithm	An ordered set of well-defined instructions for the solution of a problem in a finite number of steps.
+ALU	See the definition for "arithmetic and logic unit".
+analog data	The representation and measurement of the performance or behavior of a system by continuously variable physical entities such as currents, voltages and so on. See also the definition for "digital data".
+and	The output of "and" is True if all statements are True, False if any statement is False.
+applet (Java)	A program that runs in the context of a browser.
+application (Java)	A program that runs when translated by a Java compiler.
+archive	Data that represents a record of data held and processed at a specific time, which is held off-line for future research or for legal reasons.
+argument	A value or object passed to a method when it is called.
+arithmetic and logic unit (ALU)	A part of the computer that performs arithmetic operations, logic operations and related operations.
+array	An arrangement of data in one or more dimensions.	In programming languages, an aggregate that consists of data objects, with identical attributes, each of which may be uniquely referenced by indexing.
+ASCII: American Standard Code for Information Interchange	The primary encoding character set used in computers for textual data transfer between applications. The set uses eight bits for each character code, one of these bits being a check bit to verify the seven bits needed to represent one character. ASCII supports most European alphabets. Unicode supports most known alphabets and is increasingly used in data transfer. See also the definition for "Unicode".
+attribute	Element of data contained in an object; as specified within the object's class.
+B	Byte.
+back-up (file)	A second copy of a file, to be used in the event of the original file being corrupted.
+balanced tree	A tree in which the right and left sub-trees of any node have heights differing by one at the most. See also the definition for "unbalanced tree".
+bar code	A pattern of vertical lines distinguished from each other by width. It can be read by a bar code reader to provide data to a computer.
+bar code reader	An optical reader that can read bar codes.
+base	The basis of a notation or number system, defining a number representational system by positional representation. In a decimal system the base is 10, in a hexadecimal system the base is 16, and in a binary system the base is 2.
+batch processing	A method of processing data in which transactions are collected and prepared for input to the computer for processing as a single unit, for example, payroll.
+behavior	The way in which an object reacts to the methods applied
+BigO notation	A notation used to describe the relative performance (speed) of an algorithm.
+binary operator	An operator that combines two operands to give a single result, for example, addition, multiplication, division, mod, div. See also the definition for "unary operator".
+binary search	A search in which, at each step of the search, the set of data elements is divided by two, until the searched element is found. See also the definition for "sequential search".
+binary tree	A tree in which each node has at most two children.
+bit (b)	Binary digit. The smallest unit of information for data storage and transmission. Each bit is considered to be either a "0" or a "1".
+block	The smallest unit of data that can be transferred between memory and backing store in one operation.
+BMP	An extension given to files in bitmap form.
+Boolean expression	An expression that has a value of True (T) or False (F).
+bps	Bits per second.
+browser	Generally used to give interactive access to information on the World Wide Web, retrieving web pages and displaying in a multi-media format.
+bubble sort	A sort in which the first two items to be sorted are examined and exchanged if necessary to place them in the specified order; the second item is then compared with the third (exchanging them if required), the third is compared with the fourth, and the process is repeated until all pairs have been examined and all items are in the proper sequence.  See also the definitions for "insertion sort", "selection sort" and "quicksort".
+buffer	A portion of storage used to hold input or output data temporarily.
+bus	The pathway used for sending signals between internal components of a computer. Components can share the same bus but cannot transmit simultaneously. See also definitions of "data bus" and "address bus".
+bus topology	A network in which all devices are connected to a common cable, known as the "bus". See also definitions of "star topology" and "tree topology".
+Byte (B)	A set of bits considered as a unit; it normally consists of 8 bits and corresponds to a single character of information.
+cable	Wire or glass fiber used to connect computers over a network. Copper (coaxial and twisted pair) and glass fiber (fiber optic cable) are the most common.
+cache	Part of the main store that is between main memory and the processor. It holds a copy of data and instructions that are likely to be used next by the processor and is hence faster than main memory. See also the definition for "disk cache".
+CASE	See the definition for "computer-assisted software engineering".
+character set	A finite set of different characters that is complete for a given purpose, for example, the 128 ASCII characters.
+check digit	A digit added to numerical data that can be recalculated and hence used to check data integrity after input, transmission and so on.
+check sum	A sum generated using individual digits of a number and employed as an error-detecting device.
+circular queue	A queue in which the storage area is fixed and the first item is held in a location that is logically next to the storage location for the last item of the queue. Data items can be thought of as being arranged in a circle.
+clash (collision)	A situation in which two or more entries in a file or other data structure are given the same memory location through the use of a hash table.
+class	Combination of data and operations that can be performed on that data; specification of the data members and methods of the object.
+client	Desktop computer or terminal used to access a computer-based system.
+client-server	A network architecture in which a system is divided between server tasks performed on the instructions received from clients, requesting information.
+collection	A class designed to hold objects (referred to in the syllabus as data structure).
+command language	A set of procedural operators with a related syntax, used to indicate the functions to be performed by an operating system.
+compiler	A program that translates a source program into machine code that can be converted into an executable program (an object program). See also the definition for "interpreter".
+computer-assisted software engineering	The automation of well-defined methodologies that are used in the development and maintenance of products. These methodologies apply to nearly every process or activity of a product development cycle, for example: project planning, product designing, coding and testing.
+computer architecture	The logical structure and functional characteristics of a computer, including the interrelationships among its hardware and software components.
+computer program	A sequence of instructions suitable for processing by a computer.
+constructor method	A method with the same name as the class that initializes the instance variables of an object of the class when the object is instantiated.
+CRC cards	Class, responsibility, collaboration cards. A design tool for classes that lists a class's name, its responsibilities and the classes with which it collaborates on an index card.
+cylinder	Concentric disk tracks of a hard disk (one on top of the other) form a cylinder.
+database management system (DBMS)	A computer-based system for defining, creating, manipulating, controlling, managing and using databases.
+data bus	The pathway between the memory or peripheral and processing unit that carries data for processing or data that has been processed. See also definitions for "bus" and "address bus".
+data compression	A method of reducing the size of data. All redundancy in the data is removed to reduce the storage needed or to speed up transfer. The data can be uncompressed back to its original state.
+data integrity	The correctness of data after processing, storage or transmission.
+data member	A data type that is a member of a class.
+data packet	Part of a transmitted message that is sent separately. Apart from containing a portion of the message it will have other data such as check digits, destination address and so on.
+data protection	Method of ensuring that personal data is correct and is not misused either by those holding it or others who have no right to access it.
+data security	Method of ensuring that data is correct, safe and cannot be read or changed by those who have no right to access it.
+DBMS	See the definition for "database management system".
+debugging tool	A program used to detect, trace and eliminate errors in computer programs or other software.
+defragmentation software	An application that reads file segments from non-contiguous sections of a storage device and then writes the files to the same device in such a way that each file segment is contiguous.
+De Morgan's law	If A and B are Boolean expressions, then: not(A or B) = not(A) and not(B). Also not(A and B) = not(A) or not(B).
+dequeue	To remove an item from the front of a queue. See also the definition for "enqueue".
+digital data	Discrete data.
+digital signature	A digital code attached to an electronic message or document, which is unique and which can be used to authenticate the sender or owner. Most often used in electronic commerce.
+direct access file	A file organized in such a way that a calculation provides the address (location) of a record so that the record can be accessed directly. The records in the file may be ordered or unordered.
+DMA	Access to memory and devices without the direct control of the processor. This is most often used for hard disk access and screen display.
+disk cache	RAM set aside to speed up access to a hard drive. This may be part of the disk itself or may be incorporated in cache memory.
+distributed processing	A network in which some or all of the processing, storage and control functions, in addition to input/output functions, are dispersed among its nodes.
+double buffering	Two areas of memory set aside for data transfer between the processor and peripherals. As one is emptied the other is filled up in order to speed up transfer.
+doubly linked list	A linked list in which each node has both a head pointer and a tail pointer.
+dynamic data structure	Data structures that can change in size during program execution. See also the definition for "static data structures".
+encapsulation	The combination of data and the operations that act on the data to form a single program unit called an "object".
+encryption	In computer security, the process of transforming data into an unintelligible form in such a way that the original data cannot be easily obtained except by using a decryption process.
+enqueue	To add an item to the rear of a queue. See also the definition for "dequeue".
+exception	An object that is created when an abnormal situation arises in a program. See also the definition for "exception handler".
+exception handler	A program code that handles exceptions that arise during the running of a program. An exception is thrown to the handler rather than causing a fatal error. See also the definition for "exception".
+expression	A sequence of symbols that can be evaluated.
+fiber optic	Cabling used for networking that uses fine strands of glass. The medium can carry a great deal of data and it gives a fast transfer rate.
+field (object attribute)	A subdivision of a record containing a unit of information. For example, a payroll record might have the following fields: clock number, gross pay, deductions and net pay.
+FIFO	First-in-first-out. See also the definitions for "queue", "stack" and "LIFO".
+file	An organized collection of data. 
+file manager	An application software that can access, create, modify, store and retrieve files.
+fixed-length records	Records whose size is determined in advance. All such records in a file have the same length. See also the definition for "variable-length records".
+fixed point	The performing of arithmetical calculations without regard to the position of the radix point. The relative position of the point has to be controlled during calculations.
+flag	An indicator with two possible states, "set" or "not set", that can be represented by one bit. A flag can be used to indicate that a record can be deleted, to indicate end of input/output and to sense whether an interrupt has occurred.
+floating point	In floating point arithmetic, the position of the decimal point does not depend on the relative position of the digits in the numbers (as in fixed point arithmetic), since the two parts of the floating point number determine the absolute value of the number.
+formal parameter	See the definition for "parameter".
+formatted output	Data prepared for output in order to be displayed in a desired format (for example, trailing zero on 7.50$ instead of 7.5$).
+fully-indexed file	A file in which, although the records are unordered, a particular record can be found using a sequential access to the index of the file followed by direct access to the data file. See also the definition for "partially-indexed file".
+gateway	A link between two computer systems that converts data passing through into the formats needed for each system.
+graphics tablet (graphics pad)	An input device on which the user writes or designs. The image is reproduced on the screen.
+GUI	Graphical user interface.
+hacking	Obtaining unauthorized access to protected resources.
+handshaking	The exchange of predetermined signals when a connection is established between two devices or components.
+hash code	A method of coding to obtain a search key for the purpose of storing and retrieving items of data.
+hash table	A table of information that is accessed by way of a shortened search key (the hash value).
+hexadecimal	A system of numbers with the base 16; hexadecimal digits range from 0 to 9 and from A to F, where A represents 10 and F represents 15.
+high-level language	A programming language whose concepts and structures are convenient for human reasoning. Such languages are independent of the structures of computers and operating systems.
+HTML (Hyper Text Markup Language)	A computer language used to construct web pages. Tags are used to denote the way in which text and graphics are to be displayed. The language is interpreted by a browser to display the pages.
+hub	In networking, a switch that sends data to the stations to which it is attached.
+IDE (integrated development environment)	A programming tool that gives programmers a single environment (that is, the hardware and software environment in which the program runs) for building programs rather than using individual editors and debuggers.
+identifier	The name or label chosen by the programmer to represent a variable, method, class, data type or any other element defined within the program.
+infix notation	A notation for representing logical operators in which the operator is written between the operands, for example, A+B or A*B. See also the definitions for "postfix notation" and "prefix notation".
+inheritance	The name given to the property whereby an object, which extends another object, inherits the data members and member functions of the original.
+in-order traversal	Traversal of a tree visiting the nodes in the order left-child, parent, right-child. See also the definitions for "pre-order traversal" and "post-order traversal".
+insertion sort	A sort in which each item in a set is inserted into its proper position in the sorted set according to a specified criterion. See also the definitions for "bubble sort", "selection sort" and "quicksort".
+interface	The hardware and associated software needed for communication between processors and peripheral devices to compensate for the difference in their operating characteristics.
+interpreter	A program that translates and executes each instruction of a programming language before it translates and executes the next instruction. See also the definition for "compiler".
+interrupt	A suspension of a process, such as the execution of a computer program caused by an external event, performed in such a way that the process can be resumed.
+ISDN (integrated services digital network)	An international communications standard for sending voice, video and other data over digital telephone lines.
+ISO	International Organization for Standardization. iteration The process of repeatedly running a set of computer instructions until some condition is satisfied.
+JPEG (joint photographic expert group)	A recognized standard of compression of graphics files that has some loss.
+keys	In computer security, a sequence of symbols used with a cryptographic algorithm for encrypting or decrypting data.	In databases, the key of a record is a field with a unique value that can be used to locate that record.
+latency	See the definition for "rotational delay".
+left-child	In a tree, the node to the immediate left of a parent node. See also the definitions for "parent" and "right-child".
+library manager	Many programming languages permit user-defined functions to be stored centrally and re-used in various programs. This central storage is called a "library". A library manager is a utility program that catalogues, pre-compiles and links library modules.
+LIFO	Last-in-first-out. See also the definitions of "stack", "queue" and "FIFO".
+linked list	A data structure technique of storing data in different areas of memory rather than in a contiguous block and keeping track of the data using pointers.
+linker	A utility program that brings together the object modules, operating system routines and other utility software to produce a complete, executable program.
+loader	A program that copies an object program held in memory into the memory area designated by the operating system for execution.
+local area network (LAN)	A computer network where all the computers are directly linked by cables and/or microwave transmission. This is usually located on a user's premises within a limited geographical area. See also the definition for "wide area network (WAN)".
+local variable	A variable that is defined and is capable of being used only in one specified program block.
+logic circuit	A circuit whose output can be determined by knowing the input and by following the path through the logic gates.
+logic error	An error arising from an incorrect appreciation of the problem leading to an incorrect action being performed and hence a false result being produced.
+logic gate	A combinational circuit that performs an elementary logic operation and usually involves one output.
+magnetic ink character recognition (MICR)	The identification of characters through the use of magnetic ink. See also the definition of "OCR".
+mainframe	A computer, usually in a computer centre, with extensive capabilities and resources to which other computers may be connected so that they can share facilities.
+master file	A permanent file holding information that can be accessed and that is periodically updated by processing with a transaction file. See also the definition for "transaction file".
+memory address register (MAR)	Holds the address in memory of the instruction at present being executed.
+memory manager	A program that is usually part of the operating system that controls the allocation of memory to various applications. It is particularly important in multi-tasking systems where applications might otherwise cause conflicts, and for implementing virtual machines and virtual memory.
+memory mapped I/O	See the definition for "DMA".
+menu	A display of a list of optional facilities that can be chosen by the user in order to carry out different functions in a system.
+method	The behavior or operation of an object.	The procedure used by an object as specified within the object class. See also the definition for "method signature". 
+method signature	The number and types of arguments of a method.
+MICR	See the definition for "magnetic ink character recognition".
+microprocessor	An integrated circuit incorporating the main components of a central processor. These circuits are used for microcomputers and small devices controlled by computer.
+microwave transmission	A method of electronic communication that does not require cables.
+modem	An abbreviation for "modulator/demodulator": a piece of electronic equipment that converts digital signals from a computer into audio signals that are transmitted over telephone lines, and converts them back again.
+modular language	A language in which a complete program can be broken down into separate components (modules), each of which is to some extent self-contained. For example, the scope of variables can be limited to a module and does not extend through the entire program. See also the definition for "top-down design".
+modularity	One aspect of structured programming in which individual tasks are programmed as distinct sections or modules. One advantage is the ease with which individual sections can be modified without reference to other sections.
+module	A self-contained subset of a program.
+modulo arithmetic	Arithmetic that uses the integer result and integer remainder of division as two separate entities.
+multi-tasking	A mode of operation that provides for concurrent performance, or interleaved execution, of two or more tasks.
+multi-user system	A system that allows two or more people to use the services of a processor within a given period of time.
+multi-processing	The simultaneous execution of two or more computer programs or sequences of instructions by a computer (parallel processing).
+nand	The output of "nand" is False only if all inputs are True, otherwise the output is True.
+network	Any set of interconnected computer systems that share resources and data. See also the definitions for "networking", "local area network (LAN)" and "wide area network (WAN)".
+networking	Making use of the services of a network. See also the definitions for "network", "local area network (LAN)" and "wide area network WAN").
+node	In the terminology of tree structures, each position in the tree is called a "node".	Any device on a computer network that can be addressed so that it can be contacted by other computers.	A "host" computer on a network.
+nor	The output of "nor" is True if all statements are False, False if at least one statement is True.
+not	The output of "not" for a statement P is True if P is False, False if P is True.
+object	An object is a combination of data and the operations that can be performed in association with that data. Each data part of an object is referred to as a data member while the operations can be referred to as methods. The current state of an object is stored in its data members and that state should only be changed or accessed through the methods. Common categories of operations include: the construction of objects; operations that either set (mutator methods) or return (accessor methods) the data members; operations unique to the data type; and operations used internally by the object.
+object-oriented programming (OOP)	An approach to programming in which units of data are viewed as active "objects" rather than the passive units envisioned by the procedural paradigm.
+OCR Optical character recognition (reader)	Refers to the use of devices and software to "read" characters and translate them into ASCII characters for later processing. Applications of OCR include the scanning of printed documents to convert the text into digital ASCII text that can then be edited in word processors.
+OMR forms	Optical mark and read forms.
+on-line	When a user has access to a computer via a terminal.
+on-line processing (interactive)	Data processing in which all operations are performed by equipment directly under the control of a central processor, for example, airline reservations.
+open systems interconnection (OSI)	HL A set of protocols allowing different types of computers to be linked together.
+operand	In an arithmetical expression, the operand is the data that is to be operated on.
+operating system (OS)	Software that controls the execution of programs and that may provide services such as resource allocation, scheduling, input/output control, and data management.
+operator	A character or string of characters that designate an operation. See also the definitions for "binary operator" and "unary operator".
+operator precedence	In programming languages, an order relation defining the sequence of the application of operators within an expression.
+or	The output of "or" is True if at least one input is True, otherwise the output is False.
+overflow	The generation of a quantity, as a result of an arithmetic operation, that is too large to be contained in the result location. See also the definition for "underflow".
+packet	A group of bits made up of control signals, error control bits, coded information and the destination for the data.
+packet switching	A method of transmitting data in which the data packet is transmitted as one entity irrespective of the whole message.
+parallel interface	An interface through which a computer transmits or receives data that consists of several bits sent simultaneously on separate wires. See also the definition for "serial interface".
+parameter	A parameter is passed to a routine or method by variable name and type. When the code is run, the parameter is replaced by the value of the variable, and becomes the argument of the routine, referred to by the variable name in the definition.
+parameter passing	The assignment of values to parameters to be used in a procedure.
+parent (node)	The node immediately above a given node, at the next level up. There can only be one parent node for each node, but different nodes may share the same parent.
+parity bit	A binary digit appended to a group of binary digits to make the sum of all the digits, including the appended binary digit, either odd or even as established beforehand.
+parsing	The breaking down of high-level programming language statements into their component parts during the translation process. An example would be identifying reserved words and variables.
+partially-indexed file	A file in which records are ordered in groups. Sequential access to an index followed by direct access to the first record in the group, then sequential access to the desired record, retrieves a particular record. See also the definition for "fully-indexed file".
+pass-by-reference	The parameter-passing mechanism by which the address of a variable is passed to the subprogram called. If the subprogram modifies the formal parameter, the corresponding actual parameter is also changed. In Java, all objects, including arrays, are passed-by-reference. See also the definition for "pass-by-value".
+pass-by-value	The parameter-passing mechanism by which a copy of the value of the actual parameter is passed to the called procedure. If the called procedure modifies the formal parameter, the corresponding actual parameter is not affected. In Java, all primitives are passed-by-value. See also the definition for "pass-by-reference".
+peripheral device	Any device that can communicate with a particular computer, for example: input/output units, auxiliary storage, printers.
+pointer	A reference to an address that enables the retrieval of a data item or record. Used in dynamic data structures to move from item to item.
+pointing device	An instrument, such as a mouse, trackball or joystick, used to move an icon (sometimes in the form of an arrow) on the screen.
+polling	Interrogation of devices for such purposes as avoiding contention, determining operational status, or determining readiness to send or receive data.
+polymorphism	The ability of different objects to respond appropriately to the same operation.
+pop	To remove an item from the top of a stack.
+port	An access point for data entry or exit.
+postfix notation	A method of forming mathematical expressions in which each operator is preceded by its operands and indicates the operation to be performed on the operands or the intermediate results that precede it; for example, A added to B and the sum multiplied by C is represented by the expression AB+C*. See also the definitions for "infix notation" and "prefix notation".
+post-order traversal	Traversal of a tree by visiting the nodes recursively in the order left-child, right-child, parent. See also the definitions for "pre-order traversal" and "in-order traversal".
+prefix notation	A method of forming mathematical expressions in which each operator precedes its operands and indicates the operation to be performed on the operands or the intermediate results that follow it. See also the definitions for "infix notation" and "postfix notation".
+pre-order traversal	Traversal of a tree by visiting the nodes recursively in the order parent, left-child, right-child. See also the definitions for "in-order traversal" and "post-order traversal".
+primary memory	The part of the memory where the data and programs that are in use at the time are stored.
+primitive data type	Integer, real, character or Boolean data types.
+private class members	Members of a class that are only accessible from methods inside the class.
+program counter	A register that holds the address of the next instruction to be fetched in the fetch execute cycle.
+protocol	An internationally agreed set of rules to ensure transfer of data between devices. A standard protocol is one that is recognized as the standard for a specific type of transfer. For example, TCP/IP.
+prototyping	The construction of a simple version of a system in the design stage, showing the user interface but without full processing behind it. This allows the user to propose changes at the design stage.
+pseudocode	An artificial language used to describe computer program algorithms without using the syntax of any particular language. During the development of an algorithm, pseudocode often contains sections in natural language that will be replaced later.
+public class members	Members of a class that are accessible from anywhere and from any class.
+push	To add an item to the top of a stack.
+queue	An abstract data structure where items are inserted at one end and retrieved from the other end (FIFO).
+quicksort	A sort in which a list is first partitioned into lower and upper sublists for which all keys are, respectively, less than some pivot key or greater than the pivot key. See also the definitions for "bubble sort", "selection sort" and "insertion sort".
+real-time processing	The manipulation of data that is required or generated by some process while the process is in operation; usually the results are used to influence the process, and perhaps related processes, while it is occurring.
+record	An aggregate that consists of data objects, possibly with different attributes, that usually have identifiers attached to them. See also the definition for "field".
+recursion	The process whereby a method refers to itself. In many programming languages, a procedure or function can call itself.
+reference	Contains the location in memory of an object. The object can contain many individual data members.
+register	A part of internal storage that has a specified storage capacity and is usually intended for a specific purpose.
+requirements specification	A document that sets out the customer requirements of a computer system. It is written as part of the systems analysis and can be used later to evaluate the system when implemented.
+right-child	In a tree, the node to the immediate right of a parent node. See also the definitions for "parent" and "left-child".
+robotics	The techniques used in designing, building and using robots.
+robustness	A term used to describe the ability of a program to resist crashing due to incorrect input or incorrect intermediate results.
+rotational delay	In a disk drive, the time required for the disk to revolve until the correct sector is under/over the read/write heads. See also the definition for "seek time".
+router	A device that identifies the destination of messages and sends them via an appropriate route.
+search engine	A program that searches a large database to find matching items. The most common use of a search engine is to find Internet addresses based on given key words.
+secondary memory	A type of memory that allows a user to store data and programs for as long as desired, in, for example, a hard disk drive.
+sector	The smallest accessible storage unit on a disk. The point at which the sector intersects with a track is used to reference the location.
+security	Security in the context of computing is a large subject but in outline it might refer to: 1. risk to hardware, 2. risk to software, 3. risk to information.
+seek time	In a disk drive, the time taken for the read/write heads to position themselves over the appropriate track. See also the definition for "rotational delay".
+selection sort	A sort in which the items in a set are examined to find an item that fits specified criteria. This item is appended to the sorted set and removed from further consideration, and the process is repeated until all items are in the sorted set. See also the definitions for "bubble sort", "insertion sort" and "quicksort".
+semantics	The relationships of characters or groups of characters to their meanings, independent of the manner of their interpretation and use.
+sensor	A device that detects measurable elements of a physical process for transfer to a computer.
+sentinel	A special value that marks the end of a set of data. Also called an "end of data marker" or "rogue value".
+sequential access	An access method in which records are read from, written to, or removed from a file based on the logical order of the records in the file.
+sequential file	A file in which records are ordered and are retrieved using sequential access.
+sequential search	A search in which records in a file or in another data structure are examined one by one in the order in which they were entered until a specified criterion is met or until there are no more records to examine. See also the definition for "binary search".
+serial interface	An interface through which a computer transmits or receives data, one bit at a time. See also the definition for "parallel interface".
+server	A program that provides services requested by client programs.	A computer that provides services to another computer connected over a network.
+signature	A combination of specifiers, the method name and the parameter list, that uniquely identifies the method.
+simulation	The use of a data processing system to represent selected behavioral characteristics of a physical or abstract system.
+single-tasking	A mode of operation that allows only one program to be in use at any time.
+single-user system	A system that only allows one user at a time.
+software design	The systematic application of scientific and technological knowledge, methods and experience to the design, implementation, and testing of software to optimize its production and support.
+software reuse	Creating classes that operate on a wide variety of different objects, and can be "dropped into" a current project, leading to reduced software cost and increased reliability.
+speech recognition (voice recognition)	A process of comparing spoken words with those stored in the system.
+stack	An abstract data structure where only the top is accessible for the insertion and retrieval of items (LIFO).
+star topology	A network in which each device is connected to a central hub. See also the definitions for "tree topology" and "bus topology".
+static data structure	Data structures of which the size and nature are determined before a program is executed.
+storage requirements	A description of how much memory is required during the running of the program.
+storyboard	A diagrammatic form of a prototype showing a planned sequence of screen displays, demonstrating the different paths available to the user.
+structure diagram	A diagram that represents the working relationships between the parts of a system or program.
+subclass	A class that extends the attributes and methods of a parent class.
+subprogram	A program invoked by another program.
+subtree	A tree that is part of another tree.
+superclass	A class that provides its attributes and methods to a subclass.
+syntax	The rules that govern the structure of language statements; in particular, the rules for forming statements in a source language correctly.
+syntax error	An error in the rules that govern the structure of language statements.
+system documentation	Documentation of the result of the systems analysis stage giving the purpose of the system, the required inputs and outputs, a test plan and the results that are expected.
+system life cycle	The course of development changes through which a system passes from its conception to the termination of its use; for example, the phases and activities associated with the analysis, acquisition, design, development, testing, integration, operation, maintenance, and modification of a system.
+systems analyst	A person who carries out a systematic investigation of a real or planned system to determine the information requirements and processes of the system, and how these relate to each other and to another system.
+systems design	The investigation and recording of existing systems and the design of new systems.
+systems flowchart	A flowchart used to describe a complete data processing system, with the flow of data through the clerical operations involved, down to the level of individual programs, but excluding details of such programs.
+TCP/IP (transmission control protocol/Internet protocol)	A set of communications protocols used to connect hosts on the Internet.
+top-down design	A method of solving a problem by breaking it down into smaller subproblems. These are then broken down in turn until ultimately a pseudocode representation is obtained that can be used as a basis for program construction. See also the definition for "modular language".
+trace	A record of the execution of a computer algorithm exhibiting the sequences in which the instructions were executed.
+track	A series of concentric rings placed on a disk surface by the operating system.
+transaction file	A temporary file holding data that is later used for processing, generally to update a master file. See also the definition for "master file".
+translator	A computer program that transforms all or part of a program expressed in one programming language into another programming language or into a machine language suitable for execution. See also the definitions for "compiler" and "interpreter".
+tree	A non-linear data structure (representing a strictly hierarchical system of data) where each data item is thought of as a node.
+tree topology	A network that combines the characteristics of bus and star topologies. Groups of star topologies are connected to a central cable. See also the definitions for "star topology" and "bus topology".
+truncation	The process of approximating a number by ignoring all information beyond a set number of significant figures. Truncation error is the error introduced by this process.	The deletion or omission of a leading or a trailing portion of a string in accordance with specified criteria.
+truth table	A table that describes a logic function by listing all possible combinations of input values and indicating the output value for each combination.
+two's complement	A method of representing negative numbers in the binary system.
+unary operator	An operator requiring only one operand to give a single result; for example, negation (overbar for a Boolean expression). See also the definition for "binary operator".
+unbalanced tree	A tree in which the right and left subtrees have heights differing by more than one. See also the definition for "balanced tree".
+underflow	The generation of a result whose value is too small for the range of the number representation being used. See also the definition for "overflow".
+Unicode	A standardized 16-bit character set that represents the character sets of most major languages in the world. See also the definition for "ASCII".
+user-defined methods	Methods written by the user that are not inherent to the language.
+user-defined objects	Objects whose members and methods are defined by the user and not inherent in the language.
+user interface	Hardware, software, or both, that allow a user to interact with and perform operations on a system, program, or device.
+utility	A program designed to perform an everyday task such as copying data from one storage device to another.
+validation (data input)	The process of checking, with software, that the data input is of the right type and within reasonable limits. See also the definition for "verification (data input)".
+variable-length records	Records whose length is not determined in advance. Each record is allocated the space that it needs to store the information it holds. See also the definition for "fixed-length record".
+verification (data input)	A method of ensuring that the data in the computer system is the same as the original source data. This may be done by double entry. See also the definition for "validation (data input)".
+virtual memory	The use of secondary memory as if it were primary memory.
+virus	A program that infects other programs or files by embedding a copy of itself into the target files.
+virus checker	A utility program that seeks out and eliminates known viruses.
+wide area network (WAN)	A network that provides communication services to a geographic area larger than that served by a local area network or a metropolitan area network, and that may use or provide public communication facilities. See also the definition for "local area network (LAN)".
+word	A group of bits that can be addressed, transferred and manipulated as a single unit by the central processing unit.
+xor (Exclusive OR gate)	The output is True if the two inputs are different; the output is False if the two inputs are alike.

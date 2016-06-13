@@ -1,0 +1,11 @@
+team1	dinero	Cedar Ridge
+team2	ignite	McNeil #1
+team6	shovel	McNeil #2
+team3	madlib	Round Rock
+team4	cactus	Stony Point #1
+team7	leaves	Stony Point #2
+team8	canary	Stony Point #3
+team5	nitwit	Westwood
+team9	aboded	a
+team10	abodes	a #1
+team11	abohms	a #2
